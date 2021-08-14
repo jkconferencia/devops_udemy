@@ -1,5 +1,9 @@
 # prueba tecnica microservicios spring boot
+<<<<<<< HEAD
 PRUEBA CUATRO
+=======
+PRIMERA PRUEBA
+>>>>>>> df23d41b116354aaf2082e0982077d5b0d0e6bf2
 > Atendiendo el reto Code Challenge 
 > Se desarrolla un microservicio en spring boot usuando buenas practicas de diseño y codificaion, 
 > como los principios SOLID el enfoque ATDD y diferentes frameworks y librerias para optimizar el trabajo. 
